@@ -1,0 +1,26 @@
+.autocomplete {
+  margin: 25px 25px;
+  position: relative;
+}
+
+.autocomplete__result{
+  border: 1px solid black;
+}
+
+.autocomplete__result__item--active {
+  background-color: #e0ffe9;
+}
+
+.autocomplete__result__item__name{
+  font-weight: bold;
+}
+
+.autocomplete__result__item__name span{
+  color: #ff0e0e;
+}
+
+
+
+
+
+
